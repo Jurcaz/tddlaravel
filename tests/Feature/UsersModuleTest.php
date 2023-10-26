@@ -8,5 +8,6 @@ use Illuminate\Foundation\Testing\RefreshDatabase;
 
 class UsersModuleTest extends TestCase
 {
-    
+
+
 }
